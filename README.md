@@ -12,6 +12,6 @@ Grupo 5
 
 Integrantes: Arias, Bravo, Francovich, Millicay y Roldán.
 
-Nombre del proyecto:
+Nombre del proyecto: Stage Combat
 
 Profesores Involucrados: 
