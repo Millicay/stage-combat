@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-28T22:39:42.074Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" etag="kuyOC6kzFMydfZF1cnEc" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-28T22:40:18.979Z" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" etag="rcLyhckWZhTF6uaBbCCN" version="21.1.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2740" dy="3270" grid="1" gridSize="14" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="YlZFul1MHV9o11l2ybtj-17" value="&lt;p style=&quot;font-size: 25px;&quot; align=&quot;center&quot;&gt;JUEGO&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="112" y="1494" width="366" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="YlZFul1MHV9o11l2ybtj-47" value="&lt;p&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;PERSONAJE&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="YlZFul1MHV9o11l2ybtj-47" value="&lt;p&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;PERSONAJES&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="936" y="1494" width="360" height="195" as="geometry" />
         </mxCell>
         <mxCell id="YlZFul1MHV9o11l2ybtj-48" value="&lt;p&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;DIALOGOS&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
