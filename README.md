@@ -8,10 +8,10 @@
 
 # proyecto7
 
-Grupo 5
+Grupo Nª5
 
 Integrantes: Arias, Bravo, Francovich, Millicay y Roldán.
 
-Nombre del proyecto: Stage Combat
+Nombre del proyecto: Stage Combat.
 
-Profesores Involucrados: 
+Profesores Involucrados: Matias Tixeira, Julieta García Da Rosa, Gabriel Funes y Marina Dominguez.
