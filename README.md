@@ -8,7 +8,7 @@
 
 # proyecto7
 
-Grupo Nª5
+Grupo Nº5
 
 Integrantes: Arias, Bravo, Francovich, Millicay y Roldán.
 
