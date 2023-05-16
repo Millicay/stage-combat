@@ -1,10 +1,12 @@
 # Proximas fechas importantes 
 
 ## Sprint Actual
-                 Crear el proyecto 
-                 Crear los Issues
-                 Creacion de la pantalla principal (sprite)
-                 Creacion del MER (Entidades, Atributos, Tipos de atributos, Relaciones, Cardinalidades)
+                 Arreglar gantt 
+                 Pantalla principal
+                 Todas las tablas creadas (Normalizado)
+                 Relaciones entre tablas 
+                 Datos de prueba
+                 Casos de prueba BD (Querys)
 
 # Proyecto 7º
 
