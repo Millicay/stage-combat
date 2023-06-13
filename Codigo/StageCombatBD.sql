@@ -33,3 +33,26 @@ CREATE TABLE backgrounds(idbackground INT not null,
  FOREIGN KEY (idbackground) REFERENCES infoBackground(idBackground));
 
 
+INSERT INTO juego(id_juego, nombre, volumen, alto_pantalla, ancho_pantalla)
+VALUES(1, 'Stage Combat', 100, 100, 100);
+
+INSERT INTO setDialogos(dialogo_atacar, dialogo_atacado, dialogo_seleccion)
+VALUES('te pego', 'me pegaron', 'me escogieron');
+
+INSERT INTO infoPersonaje(nombre, descripcion, vida, probabilidad_crit, ataque, defensa, estamina, sprites, sprites_atacado, sprite_atacar, sprite_estado_alterado, sprite_idle, idSetDialogos)
+VALUES('Row', 'Es row', 20, 35, 40, 50, 20, 'images/row.png', 'images/row_atacado.png', 'images/row_atacar.png', 'images/row_idle.png', 1);
+
+INSERT INTO personajes(id_juego, id_personaje)
+VALUES(1, 1);
+
+INSERT INTO habilidades(nombre, descripcion, efecto_extra, coste_sp, texto_ejecutarse, tipo)
+VALUES('Puñetazo', 'Da un puñetazo', 'congelado', 2, 'Le diste un puñetazo al oponente', 'dps');
+
+INSERT INTO setsHabPJ(id_personaje, id_habilidades)
+VALUES(1, 1);
+
+INSERT INTO infoBackground(idBackground, imagen, cancion)
+VALUES(1, 'images/fondoMesa.png', 'sounds/cancionMesa.mp3');
+
+INSERT INTO backgrounds(idBackground, id_juego)
+VALUES(1, 1);
