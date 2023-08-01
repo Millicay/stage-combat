@@ -1,12 +1,11 @@
 # Proximas fechas importantes 
+                 Fin sprint 4 - 29 de agosto
 
 ## Sprint Actual
-                 Casos de prueba BD (Querys) Sprint 2
-                 Prueba Casos de prueba BD (Querys)
-                 Casos de prueba BD (Querys) Sprint 3
-                 Conectar la base de datos al codigo 
-                 Pantalla principal 
-                 Insertar datos al menos 5 por tabla 
+                 Pantalla configuracion(visual)
+                 pantalla de victoria(visual)
+                 pantalla de selección de personajes(visual y funcional)
+                 pantalla de selección de escenario(visual,funcional) 
 
 # Proyecto 7º
 
