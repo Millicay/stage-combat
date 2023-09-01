@@ -5,6 +5,10 @@
                  
                  pantalla de victoria(visual)
                  pantalla de selección de escenario(funcional) 
+                 pantalla combate (visual, funcional)
+                 añadir un personaje más (visual)
+                 turno de personajes (funcional)
+                 
 
 # Proyecto 7º
 
