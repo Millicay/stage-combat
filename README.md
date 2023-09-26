@@ -3,8 +3,10 @@
 
 ## Sprint Actual
                  
-                 MVP
-                 turno de personajes (funcional)
+                 Función atacar (funcional)
+                 Background de combate (visual)
+                 Turno de personajes (funcional)
+                 Funciñon ganar (funcional)
                  
 
 # Proyecto 7º
