@@ -7,6 +7,7 @@
                  Background de combate (visual)
                  Turno de personajes (funcional)
                  Funciñon ganar (funcional)
+                 Barra de vida (funcional)
                  
 
 # Proyecto 7º
