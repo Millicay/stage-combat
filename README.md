@@ -6,7 +6,7 @@
                  Función atacar (funcional)
                  Background de combate (visual)
                  Turno de personajes (funcional)
-                 Funciñon ganar (funcional)
+                 Función ganar (funcional)
                  Barra de vida (funcional)
                  
 
