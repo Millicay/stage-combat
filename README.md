@@ -1,5 +1,5 @@
 # Proximas fechas importantes 
-                 Fin sprint 4 - 24 de octubre
+                 Fin sprint FINAL - 24 de octubre
 
 ## Sprint Actual
                  
