@@ -1,12 +1,9 @@
 # Proximas fechas importantes 
-                 Fin sprint 4 - 29 de agosto
+                 Fin sprint 4 - 24 de octubre
 
 ## Sprint Actual
                  
-                 pantalla de victoria(visual)
-                 pantalla de selección de escenario(funcional) 
-                 pantalla combate (visual, funcional)
-                 añadir un personaje más (visual)
+                 MVP
                  turno de personajes (funcional)
                  
 
