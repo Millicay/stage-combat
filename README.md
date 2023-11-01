@@ -3,11 +3,11 @@
 
 ## Sprint Actual
                  
-                 Función atacar (funcional)
-                 Background de combate (visual)
-                 Turno de personajes (funcional)
-                 Función ganar (funcional)
-                 Barra de vida (funcional)
+                 Añadir Audio
+                 Añadir personajes
+                 Pantalla de opciones (funcional)
+                 Habilidades de personajes
+                 Combate 2v2
                  
 
 # Proyecto 7º
