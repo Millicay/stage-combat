@@ -1,5 +1,5 @@
 # Proximas fechas importantes 
-                 Fin sprint FINAL - 27 de octubre
+                 25/11 entrega proyecto
 
 ## Sprint Actual
                  
